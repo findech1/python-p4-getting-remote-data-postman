@@ -176,8 +176,15 @@ API send as a response if you make a bad request?
 
 ## Conclusion
 
-Conclusion summary paragraph. Include common misconceptions and what students
-will be able to do moving forward.
+API clients like Postman are extremely valuable to have in your API developer
+toolkit. They make it simple to interact with servers by giving you full control
+over how the response is being sent, with a nice interface for customizing the
+HTTP verb, URL, headers, and body.
+
+In future lessons, we'll be expanding our API to handle non-GET requests, so
+being able to use a tool like Postman will make our API development much easier!
+It's also a great tool to use if you're exploring a third-party API for use in
+your projects.
 
 ***
 
