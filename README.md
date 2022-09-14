@@ -1,4 +1,4 @@
-# X Lesson Title
+# Testing APIs with Postman
 
 ## Learning Goals
 
