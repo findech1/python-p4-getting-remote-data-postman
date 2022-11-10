@@ -2,18 +2,20 @@
 
 ## Learning Goals
 
-- Use different kinds of clients to make requests
-- Compose a request with a URL, HTTP verb, headers, and body
-- Test non-GET requests using Postman
+- Use different kinds of clients to make requests.
+- Compose a request with a URL, HTTP verb, headers, and body.
+- Test non-GET requests using Postman.
 
 ***
 
 ## Key Vocab
 
 - **Request**: an attempt by one machine to contact another over the internet.
-- **Client**: an application or machine that accesses services being provided by a server through the internet.
-- **Web Server**: a combination of software and hardware that uses Hypertext Transfer Protocol (HTTP) and other protocols to respond to requests made over the internet.
-- **More vocab to come**
+- **Client**: an application or machine that accesses services being provided by
+  a server through the internet.
+- **Web Server**: a combination of software and hardware that uses Hypertext
+  Transfer Protocol (HTTP) and other protocols to respond to requests made over
+  the internet.
 
 ***
 
@@ -22,7 +24,6 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2Uga5Dmj-dA?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ***
-
 
 ## HTTP Clients
 
