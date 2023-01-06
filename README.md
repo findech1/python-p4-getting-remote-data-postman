@@ -27,7 +27,7 @@
 
 ## HTTP Clients
 
-When developing a web application with Sinatra, our primary goal is to take
+When developing a web application with Flask, our primary goal is to take
 **HTTP requests** and return an appropriate **response**, following the idea of
 **client-server** communication. So far, we've been using one particular client
 to interact with our server: the browser!
