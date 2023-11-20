@@ -4,3 +4,7 @@
   :course_id: 6130
   :canvas_url: https://learning.flatironschool.com/courses/6130/pages/x-lesson-title
   :type: page
+- :id: 297410
+  :course_id: 7560
+  :canvas_url: https://learning.flatironschool.com/courses/7560/pages/testing-apis-with-postman
+  :type: page
