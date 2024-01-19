@@ -1,4 +1,4 @@
-# Testing APIs with Postman
+# Testing API's with Postman
 
 ## Learning Goals
 
@@ -8,7 +8,7 @@
 
 ***
 
-## Key Vocab
+## Key Vocabulary
 
 - **Request**: an attempt by one machine to contact another over the internet.
 - **Client**: an application or machine that accesses services being provided by
